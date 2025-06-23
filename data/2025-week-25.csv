@@ -1,34 +1,34 @@
-week,year,date_start,date_end,commit_hash,commit_date,author,repository,commit_message
-25,2025,2025-06-16,2025-06-22,881113c2c42f082c8a7e39f722590e4100847e8f,2025-06-17,larnsce,openwashdata/website,add intern report
-25,2025,2025-06-16,2025-06-22,7a85ae2557d795cd2f0a8764bfc61713393ca22f,2025-06-17,larnsce,openwashdata/website,add typst output
-25,2025,2025-06-16,2025-06-22,098fa178c01361466a65ccbb1398c9a300edf470,2025-06-17,larnsce,openwashdata/website,initial commit
-25,2025,2025-06-16,2025-06-22,3e1a90597baf5c36e62617ee9cb54e5de00325dc,2025-06-17,larnsce,openwashdata/newsletter,draft issue 18
-25,2025,2025-06-16,2025-06-22,4a3657e3e9a21283bac4a2267224a070af7130cb,2025-06-17,larnsce,openwashdata/newsletter,add claude
-25,2025,2025-06-16,2025-06-22,78c4fa2ee8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,global-health-engineering/website,fianlize slides; update PDF
-25,2025,2025-06-16,2025-06-22,3689411dd8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,global-health-engineering/data-repos/ethord,rename file
-25,2025,2025-06-16,2025-06-22,8cbad40cc8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,embed resources
-25,2025,2025-06-16,2025-06-22,938f511bb8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,adapt project to output HTML instead of PDF
-25,2025,2025-06-16,2025-06-22,88234ceaa8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,remove View
-25,2025,2025-06-16,2025-06-22,e0e53f7998b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven5999-ss25/website,update slides
-25,2025,2025-06-16,2025-06-22,0237c68887b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven5999-ss25/website,update
-25,2025,2025-06-16,2025-06-22,09d85ab776b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven5999-ss25/website,Add repository cloning instructions to lec-02-visualisation slides
-25,2025,2025-06-16,2025-06-22,cca1bb8665b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,fairqual/workflow,create initial Quarto report comparing workflows
-25,2025,2025-06-16,2025-06-22,9fa882f554b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,fairqual/workflow,add GH proposal and workshop blog links
-25,2025,2025-06-16,2025-06-22,b43d490443b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,fairqual/workflow,add CLAUDE.md with project guidance
-25,2025,2025-06-16,2025-06-22,86142fe332b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-16,larnsce,mypkm,initial commit
-25,2025,2025-06-16,2025-06-22,c9af3f1221b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-17,larnsce,mywhisper,Add configuration and pyannote integration
-25,2025,2025-06-16,2025-06-22,04994fb110b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,mykmail,Fix sender name parsing with MIME decoding support
-25,2025,2025-06-16,2025-06-22,a1cca7b009b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,mykmail,Fix email reading with improved IMAP parsing
-25,2025,2025-06-16,2025-06-22,640b031ff8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,mykmail,Refactor codebase and add comprehensive test suite
-25,2025,2025-06-16,2025-06-22,1821601ee7b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,quanta,Add bilingual support with English and German translations
-25,2025,2025-06-16,2025-06-22,2e8a202dd6b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,quanta,Add projects portfolio section showcasing training programs
-25,2025,2025-06-16,2025-06-22,5ecf0b1cc5b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,quanta,Initial commit: Create Quarto website for data training services
-25,2025,2025-06-16,2025-06-22,64db7e7bb4b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,transcribe,Reorganize project structure with proper folder hierarchy
-25,2025,2025-06-16,2025-06-22,05b37daaa3b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,linkedin,Reorganize directory structure for better maintainability
-25,2025,2025-06-16,2025-06-22,115f84b992b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,linkedin,Extract and analyze GHE meeting questions data
-25,2025,2025-06-16,2025-06-22,7815d10881b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-04,remove project homework
-25,2025,2025-06-16,2025-06-22,a2a8559770b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-04,fix paths; embed resourcey
-25,2025,2025-06-16,2025-06-22,e51df74669b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-03,add max
-25,2025,2025-06-16,2025-06-22,ad49468558b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-22,larnsce,ds4owd-002/website,Update Quarto configuration for ds4owd-002 course iteration
-25,2025,2025-06-16,2025-06-22,5fb2750447b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-22,larnsce,ds4owd-002/website,Update course information and add instructor profile image
-25,2025,2025-06-16,2025-06-22,5cdb153336b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-22,larnsce,ds4owd-002/website,Replace hardcoded values with variables from _variables.yml
+week,year,date_start,date_end,commit_hash,commit_date,author,repository,commit_message,claude_assisted
+25,2025,2025-06-16,2025-06-22,881113c2c42f082c8a7e39f722590e4100847e8f,2025-06-17,larnsce,openwashdata/website,add intern report,no
+25,2025,2025-06-16,2025-06-22,7a85ae2557d795cd2f0a8764bfc61713393ca22f,2025-06-17,larnsce,openwashdata/website,add typst output,no
+25,2025,2025-06-16,2025-06-22,098fa178c01361466a65ccbb1398c9a300edf470,2025-06-17,larnsce,openwashdata/website,initial commit,no
+25,2025,2025-06-16,2025-06-22,3e1a90597baf5c36e62617ee9cb54e5de00325dc,2025-06-17,larnsce,openwashdata/newsletter,draft issue 18,no
+25,2025,2025-06-16,2025-06-22,4a3657e3e9a21283bac4a2267224a070af7130cb,2025-06-17,larnsce,openwashdata/newsletter,add claude,no
+25,2025,2025-06-16,2025-06-22,78c4fa2ee8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,global-health-engineering/website,fianlize slides; update PDF,no
+25,2025,2025-06-16,2025-06-22,3689411dd8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-18,larnsce,global-health-engineering/data-repos/ethord,rename file,no
+25,2025,2025-06-16,2025-06-22,8cbad40cc8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,embed resources,no
+25,2025,2025-06-16,2025-06-22,938f511bb8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,adapt project to output HTML instead of PDF,no
+25,2025,2025-06-16,2025-06-22,88234ceaa8b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,awel-energie/awel-foerderbericht,remove View,no
+25,2025,2025-06-16,2025-06-22,e0e53f7998b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven5999-ss25/website,update slides,no
+25,2025,2025-06-16,2025-06-22,0237c68887b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven5999-ss25/website,update,no
+25,2025,2025-06-16,2025-06-22,09d85ab5045ed6148f558ae88fdae4aafc3ad847,2025-06-16,larnsce,cven5999-ss25/website,Add repository cloning instructions to lec-02-visualisation slides,yes
+25,2025,2025-06-16,2025-06-22,cca1bb8a179c3785549849a422a466744ec72636,2025-06-19,larnsce,fairqual/workflow,create initial Quarto report comparing workflows,yes
+25,2025,2025-06-16,2025-06-22,9fa882f554b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-21,larnsce,fairqual/workflow,add GH proposal and workshop blog links,no
+25,2025,2025-06-16,2025-06-22,b43d490aeecd92a4dae151be41a02588ac384aa8,2025-06-19,larnsce,fairqual/workflow,add CLAUDE.md with project guidance,yes
+25,2025,2025-06-16,2025-06-22,86142fe332b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-16,larnsce,mypkm,initial commit,no
+25,2025,2025-06-16,2025-06-22,c9af3f18e7a429ef5000b6f3dd642fdd98fcaf7f,2025-06-20,larnsce,mywhisper,Add configuration and pyannote integration,yes
+25,2025,2025-06-16,2025-06-22,04994fbf5c589643be3228223974d0780cfdfb40,2025-06-18,larnsce,mykmail,Fix sender name parsing with MIME decoding support,yes
+25,2025,2025-06-16,2025-06-22,a1cca7b2eef989520aa18c178f3731305c29514e,2025-06-18,larnsce,mykmail,Fix email reading with improved IMAP parsing,yes
+25,2025,2025-06-16,2025-06-22,640b03189a75d4c179fa1fdcec8834704553eee9,2025-06-18,larnsce,mykmail,Refactor codebase and add comprehensive test suite,yes
+25,2025,2025-06-16,2025-06-22,1821601ee7b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-19,larnsce,quanta,Add bilingual support with English and German translations,no
+25,2025,2025-06-16,2025-06-22,2e8a202d156c5303881b818c8af48b1cd5c172e5,2025-06-20,larnsce,quanta,Add projects portfolio section showcasing training programs,yes
+25,2025,2025-06-16,2025-06-22,5ecf0b1a07ce1f0009e26e44ea3f709c12d59e94,2025-06-20,larnsce,quanta,Initial commit: Create Quarto website for data training services,yes
+25,2025,2025-06-16,2025-06-22,64db7e7f0b8bd3c51e96caa326f8c7791095b666,2025-06-20,larnsce,transcribe,Reorganize project structure with proper folder hierarchy,yes
+25,2025,2025-06-16,2025-06-22,05b37da21020161cef340f5f9b9701783ce5ee44,2025-06-20,larnsce,linkedin,Reorganize directory structure for better maintainability,yes
+25,2025,2025-06-16,2025-06-22,115f84b9689d4cbbc0aa59019e1a15c7f5d2215b,2025-06-20,larnsce,linkedin,Extract and analyze GHE meeting questions data,yes
+25,2025,2025-06-16,2025-06-22,7815d10881b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-04,remove project homework,no
+25,2025,2025-06-16,2025-06-22,a2a8559770b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-04,fix paths; embed resourcey,no
+25,2025,2025-06-16,2025-06-22,e51df74669b48c6a8df6e9b4f5a3c2d1e9f8a7b6,2025-06-20,larnsce,cven-dev/wk-03,add max,no
+25,2025,2025-06-16,2025-06-22,ad49468742e187d9833ca8d5019d43265bc1f6da,2025-06-16,larnsce,ds4owd-002/website,Update Quarto configuration for ds4owd-002 course iteration,yes
+25,2025,2025-06-16,2025-06-22,5fb27500f3ee0ae20f746fffa8ee5ef3693fefb3,2025-06-16,larnsce,ds4owd-002/website,Update course information and add instructor profile image,yes
+25,2025,2025-06-16,2025-06-22,5cdb15304a1513b63f6950f2f7cf48ee5650b832,2025-06-16,larnsce,ds4owd-002/website,Replace hardcoded values with variables from _variables.yml,yes
